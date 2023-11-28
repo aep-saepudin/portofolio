@@ -1,0 +1,3 @@
+- velsite or website build
+- App inventory
+- Qwords v8
